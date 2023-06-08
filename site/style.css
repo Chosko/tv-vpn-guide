@@ -68,8 +68,17 @@ ol li {
     line-height: 1.4;
 }
 
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    margin-right: 10px;
+    background-color: #00bfff;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 4px;
+}
+
 a {
-    color: #00bfff;
     text-decoration: none;
 }
 
