@@ -1,0 +1,19 @@
+# Node.js
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# Build files
+dist/
+
+# IDE specific files
+.idea/
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
