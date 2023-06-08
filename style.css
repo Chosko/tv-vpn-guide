@@ -1,12 +1,13 @@
 body {
     font-family: 'Arial', sans-serif;
-    color: #333;
+    color: #eee;
+    background-color: #333;
     margin: 0;
     padding: 0;
 }
 
 header {
-    background-color: #f2f2f2;
+    background-color: #222;
     padding: 20px;
     text-align: center;
 }
@@ -14,23 +15,28 @@ header {
 h1 {
     font-size: 24px;
     margin: 0;
+    color: #fff;
 }
 
 main {
     max-width: 800px;
     margin: 20px auto;
     padding: 20px;
-    background-color: #fff;
-    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    background-color: #444;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
 }
 
 section {
     margin-bottom: 40px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #666;
 }
 
 h2 {
     font-size: 20px;
     margin-top: 0;
+    margin-bottom: 10px;
+    color: #fff;
 }
 
 p {
@@ -48,7 +54,7 @@ ul li {
 }
 
 a {
-    color: #007bff;
+    color: #00bfff;
     text-decoration: none;
 }
 
