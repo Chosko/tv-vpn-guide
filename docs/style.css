@@ -81,6 +81,10 @@ ol li {
 a {
     text-decoration: none;
 }
+/* 
+.three-steps {
+    width: 32%;
+} */
 
 a:hover {
     text-decoration: underline;
